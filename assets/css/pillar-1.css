@@ -230,7 +230,7 @@ label {
 }
 
 button {
-  border-radius: 1;
+  border-radius: 0;
 }
 
 button:focus {
